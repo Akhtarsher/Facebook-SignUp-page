@@ -1,0 +1,57 @@
+body {
+    font-family: "Kanit", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    background-color: #ededed;
+}
+
+form{
+    background-color: #fffefe;
+    border-radius: 10px;
+    padding: 10px;
+}
+.heading>h1 {
+    font-size: 77px;
+    font-weight: bold;
+}
+
+.content>h1 {
+    margin-bottom: 0px;
+    font-size: 40px
+}
+
+span {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 2px;
+}
+
+input {
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+
+select {
+    width: 100%;
+    font-size: 15px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    height: 36px;
+    margin-top: 8px;
+}
+
+label {
+    width: 100%;
+    font-size: 15px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    height: 36px;
+    margin-top: 8px;
+}
+
+p {
+    font-family: "IBM Plex Sans", sans-serif;
+    margin-top: 10px;
+    font-size: 15px;
+}
